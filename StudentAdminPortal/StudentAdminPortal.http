@@ -1,0 +1,6 @@
+@StudentAdminPortal_HostAddress = http://localhost:5019
+
+GET {{StudentAdminPortal_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
