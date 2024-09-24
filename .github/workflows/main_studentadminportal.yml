@@ -22,7 +22,7 @@ jobs:
           dotnet-version: '8.x'
 
       - name: Build with dotnet
-        run: dotnet build ./backend/StudentAdminPortal/StudentAdminPortal.csproj --configuration Release
+        run: dotnet build ./StudentAdminPortal/StudentAdminPortal.csproj --configuration Release
 
       - name: dotnet publish
         run: dotnet publish ./backend/StudentAdminPortal/StudentAdminPortal.csproj -c Release -o ${{env.DOTNET_ROOT}}/myapp
