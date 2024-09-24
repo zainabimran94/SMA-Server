@@ -1,6 +1,9 @@
 
 # School Management App
 
+## Video Demo Link
+ https://www.youtube.com/watch?v=OL_E2jYk8KE
+
 ## Overview
 
 The School Management App is a comprehensive portal designed to streamline the management of school operations. Built with a robust technology stack, this application provides dedicated functionalities for both administrators and students, ensuring an efficient educational experience.
